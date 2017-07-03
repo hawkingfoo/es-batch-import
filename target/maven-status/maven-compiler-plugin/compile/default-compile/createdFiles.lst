@@ -1,0 +1,5 @@
+elasticsearch\ESClient.class
+elasticsearch\ESConfig.class
+data\ESImporter.class
+elasticsearch\ESClient$1.class
+server\ImportMain.class
